@@ -33,7 +33,7 @@ Follow these steps to run the project locally for development or demonstration:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/gn-shanthaveeragowda/ai-assessment-platform.git
+   git clone https://github.com/basavarajholimath/Quiz_Portal.git
 
 ## Team Members
 Developed as a 6th Semester B.E. Computer Science Engineering project at Bangalore Technological Institute, affiliated with Visvesvaraya Technological University (VTU).
